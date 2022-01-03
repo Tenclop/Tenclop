@@ -9,11 +9,11 @@ I'm Alin from Romania, and i do learn Web Developlment. I really enjoy learning 
 
 
 ### Skills and Experience: 
- - ⚙️:&nbsp;   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="15" style=" margin-left:4px"> JavaScript/ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" alt="webpack" height="20" style=" margin-left:4px"> Webpack  
+ - ⚙️:&nbsp;&nbsp;   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="15" style=" margin-left:4px"> JavaScript/ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" alt="webpack" height="20" style=" margin-left:4px"> Webpack  
 
- - 🎨:&nbsp;   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="SASS" height="20" style=" margin-left:4px"> SASS / <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="20" style=" margin-left:4px"> CSS   |   
- - 🧱:&nbsp;   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="20" style="margin-left:4px"> HTML
- - 🛠️:&nbsp;   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="20" style="margin-left:4px"> VScode / <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="20" style="margin-top:4px"> Git 
+ - 🎨:&nbsp;&nbsp;   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="SASS" height="20" style=" margin-left:4px"> SASS / <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="20" style=" margin-left:4px"> CSS   |   
+ - 🧱:&nbsp;&nbsp;   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="20" style="margin-left:4px"> HTML
+ - 🛠️:&nbsp;&nbsp;   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="20" style="margin-left:4px"> VScode / <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="20" style="margin-top:4px"> Git 
 
 ### About me: 
 - 🔭 I’m currently working on building my skill set  
