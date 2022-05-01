@@ -5,7 +5,7 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1={Design:%20✏️,%20Development:%20🖥️}&width=1200&height=350)](https://github.com/Akshay090/svg-banners)
 
 
-I'm Alin from Romania, and i do learn Web Developlment. I really enjoy learning languages like JS and working with different extensions like SASS. I also enjoy UI, UX and design in general, that's because I'm more of a visual person but  i dont mind "playing" with the terminal.
+I'm Alin from Romania, and i do learn Web Development. I really enjoy learning languages like JS and working with different extensions like SASS. I also enjoy UI, UX and design in general, that's because I'm more of a visual person but  i dont mind "playing" with the terminal.
 
 
 ### Skills and Experience: 
