@@ -34,6 +34,7 @@ I'm Alin from Romania, and i do learn Web Development. I really enjoy learning l
  </p>
  
 <p align="center" width="50%">
+ <p align="center" width="50%">👇 View my 3D model contribution graph 👇</p>
 <a href="https://skyline.github.com/tenclop/2022" title="2021 GitHub Skyline" align="center" width="100%" >
  <img width="50%"
         src="https://user-images.githubusercontent.com/34941191/172058505-0feffc9f-1d4a-44b1-bf84-653992c631fd.png"
